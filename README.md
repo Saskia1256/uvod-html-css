@@ -9,7 +9,7 @@ npm install
 
 ## Spuštění Cypress testů
 ```
-npm run cy:open
+
 ```
 
 ## Struktura projektu
